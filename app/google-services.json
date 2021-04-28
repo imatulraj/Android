@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "615957839064",
+    "project_id": "findmyphone-7356b",
+    "storage_bucket": "findmyphone-7356b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615957839064:android:198d6c7ed0e255248e2bad",
+        "android_client_info": {
+          "package_name": "com.gupta.findmyphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615957839064-s7brekh7nljb85vlhppjf4cpluaaqt2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn8UUeCarfvr-E_CQ9VIpECuMcxs6SxQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615957839064-s7brekh7nljb85vlhppjf4cpluaaqt2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
